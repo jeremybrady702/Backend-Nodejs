@@ -1,0 +1,27 @@
+{
+  "name": "Back-End-Nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "helmet": "^3.20.0",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.19.1",
+    "node": "^12.7.0",
+    "sqlite3": "^4.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
